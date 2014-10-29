@@ -13,4 +13,4 @@ Fist: Shoot
 Open Hand: Reset position of the ship
 Move arm left/right/up/down: change orientation of the ship
 
-Oculus: move head left/right/up/down to change camera orientation
+Oculus: move head left/right/up/down to change the camera orientation
