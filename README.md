@@ -14,3 +14,5 @@ Open Hand: Reset position of the ship
 Move arm left/right/up/down: change orientation of the ship
 
 Oculus: move head left/right/up/down to change the camera orientation
+
+Support for both Mac/Windows
